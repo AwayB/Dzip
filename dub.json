@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"iamra"
+	],
+	"copyright": "Copyright © 2021, iamra",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dzip"
+}
